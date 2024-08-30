@@ -1,0 +1,3 @@
+# pack-refs with: peeled fully-peeled sorted 
+a800bb5ae1c80dcc2f04d96401e52f4a299c76bb refs/remotes/origin/main
+44c95b315d378bc5eb9a61ee2adb9dd0e13324e7 refs/remotes/origin/project-from-scratch
